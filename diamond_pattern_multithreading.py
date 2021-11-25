@@ -34,6 +34,7 @@ time.sleep(0.2)
 t2.start()
 time.sleep(0.2)
 
+
 t1.join()
 t2.join()
 
